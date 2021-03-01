@@ -3,14 +3,14 @@
 #############################
 
 # The title that appears on the tab
-title: Pho
+title: Pho | Photos by Swopnil
 
 # The title on the web page
-full_name: Swopnil Shrestha
+full_name: 🍜
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: ROWS
+layout_style: SQUARES
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: svapani
+# instagram: svapani
 
 ######################
 # END OF CONFIG CODE #
@@ -36,7 +36,7 @@ instagram: svapani
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
-name: Gallery
+name: Photos
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Photos by Swopnil 
